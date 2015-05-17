@@ -1,0 +1,3 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"me.tomoya.benchmark.howto.Sample1.sampleBench1","avgt",1,5.000000,0.000000,0.000000,"ms/op"
+"me.tomoya.benchmark.howto.Sample1.sampleBench2","avgt",8,5.000000,0.000002,0.000000,"ms/op"
